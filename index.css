@@ -1,0 +1,67 @@
+body{
+  font-family:'Roboto', sans-serif;
+  background-color: #fff;
+
+}
+body,html {
+  height: 100%;
+}
+.col-xs-4 .line .dotted li a {
+  border-bottom: 1px dotted #323232;
+  width:1px;
+}
+
+body {
+  padding-top: 50px;
+}
+.navbar .navbar-default .navbar-fixed-top li a {
+    color: black;
+}
+.navbar-brand li a {
+    color:#323232;
+}
+.collapse.navbar-collapse li a {
+    color:#323232;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #323232;
+}
+.wide {
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url("longpig.jpg");
+  background-size:cover;
+
+}
+
+.wide img {
+  width:100%;
+
+
+
+}
+
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:16pt;
+  letter-spacing:2px;
+  padding:25px;
+  text-align:center;
+}
+
+.line {
+  padding-top:20px;
+  border-bottom: 1px dotted
+  white-space:no-wrap;
+  overflow:hidden;
+  text-align:center;
+
+}
+.mission {
+  background-color: #323232;
+  color: #F7FAFE;
+  margin-top: 30px;
+}
